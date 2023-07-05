@@ -1,1 +1,2 @@
-https://GITHUB-USERNAME.github.io/rsschool-cv/
+
+https://AnnaMikula03.github.io/rsschool-cv/

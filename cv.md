@@ -66,6 +66,5 @@ function betterThanAverage(classPoints, yourPoints) {
 ### Languages:
 
 - English \- B1 Intermediate (according to the online test at [www.efset.org](https://www.efset.org/quick-check))<br>
-  ![EFset Score](img/english.png)
 - Ukrainian \- Native
 - Russian \- Fluency

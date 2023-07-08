@@ -15,7 +15,7 @@
 
 Work experience as a lead engineer at METINVEST Group enterprises. My goal is to become a web developer. I want to radically change my life and acquire new knowledge that will help me become a highly qualified specialist in the IT field in the future.
 
-My strengths: responsibility, punctuality, patience, flexibility, ability to work in a team.
+My strengths: responsibility, quick learner, hardworking, gal-oriented, team playing.
 
 ---
 
@@ -35,12 +35,18 @@ My strengths: responsibility, punctuality, patience, flexibility, ability to wor
 _Given a string, you have to return a string in which each character (case-sensitive) is repeated once._
 
 ```javascript
-function doubleChar(str) {
-  let result = "";
-  for (let i = 0; i < str.length; i++) {
-    result += str[i].repeat(2);
+function betterThanAverage(classPoints, yourPoints) {
+  let sum = 0;
+  for (let i = 0; i < classPoints.length; i += 1) {
+    sum += classPoints[i]; //
   }
-  return result;
+  result = sum / classPoints.length;
+
+  if (result < yourPoints) {
+    return true;
+  } else {
+    return false;
+  }
 }
 ```
 

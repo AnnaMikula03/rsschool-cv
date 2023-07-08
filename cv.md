@@ -1,6 +1,6 @@
 # Mikula Anna
 
-![My foto](img/foto.png)
+![My foto](/foto.png)
 
 ## Contact information:
 
